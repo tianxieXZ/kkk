@@ -1,0 +1,27 @@
+{"spider":"clan://TVBox/jar/fm.jar",
+ "sites":[
+ {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+{"key":"drpy_js_我的哔哩","name":"我的哔哩","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
+   {"key":"cntv","name":"央视[影视专用]","type":3,"api":"./js/cntv_open.js"},
+{"key":"555","name":"三五[BDQX]","type":3,"api":"./js/555dy_open.js"},
+{"key":"drpy_js_剧迷su","name":"影视 | 剧迷su","type":3,"api":"./lib/drpy2.min.js","ext":"./js/剧迷su.js"},
+{"key":"drpy_js_TV云播","name":"影视 | TV云播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TV云播.js"},
+{"key":"drpy_js_新视觉影视","name":"影视 | 新视觉影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
+{"key":"drpy_js_Voflix","name":"影视 | Voflix","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Voflix.js"},
+{"key":"drpy_js_两个BT","name":"影视 | 两个BT","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},
+{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火电影.js"},
+{"key":"drpy_js_秋霞影院","name":"影视 | 秋霞影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
+{"key":"drpy_js_在线之家","name":"影视 | 在线之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线之家.js"},
+{"key":"drpy_js_大米星球","name":"影视 | 大米星球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
+{"key":"drpy_js_北川影视","name":"影视 | 北川影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/北川.js"},
+{"key":"drpy_js_米爱影视","name":"影视 | 米爱影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米爱影视.js"},
+{"key":"drpy_js_奇优影院","name":"影视 | 奇优影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优影院.js"},
+{"key":"drpy_js_追剧迷","name":"影视 | 追剧迷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
+{"key":"drpy_js_555电影","name":"影视 | 555电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
+{"key":"drpy_js_网飞.TV","name":"影视 | 网飞TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
+{"key":"drpy_js_咕噜","name":"影视 | 咕噜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
+{"key":"drpy_js_农民","name":"影视 | 农民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
+{"key":"yqk","name":"一起看[BDQX]","type":3,"api":"./js/yqktv_open.js"},
+{"key":"nangua","name":"南瓜影视[BDQX]","type":3,"api":"./js/ng_open.js"}
+]
+ }
