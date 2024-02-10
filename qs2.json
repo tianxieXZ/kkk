@@ -1,0 +1,75 @@
+{
+  "video": {
+    "sites": [
+    {
+         "key": "滴滴资源",
+         "name": "🐾丨滴滴【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext":"https://api.ddapi.cc/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "快av资源",
+         "name": "🐾丨快爱【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext":"http://kuaiavzy.com/api.php/provide/vod/at/json" 
+    }, 
+    {
+         "key": "蛋蛋资源",
+         "name": "🐾丨蛋蛋【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext":"http://156.249.29.8/inc/apijson_vod.php"
+    }, 
+    {
+         "key": "色逼资源",
+         "name": "🐾丨色逼【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext":"https://apilsbzy1.com/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "老鸭资源",
+         "name": "🐾丨老鸭【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
+    },
+    {
+         "key": "奥斯卡资源",
+         "name": "🐾丨奥卡【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://aosikazy.com/api.php/provide/vod/"
+    }, 
+    {
+         "key": "色南国",
+         "name": "🐾丨南国【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://api.sexnguon.com/api.php/provide/vod/"
+    },
+    {
+         "key": "甜蜜资源",
+         "name": "🐾丨甜蜜【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://timizy10.cc/api.php/provide/vod/from/timim3u8"
+    },
+     {
+         "key": "猫资源",
+         "name": "🐾丨猫源【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
+    },
+    {
+         "key": "鲨鱼",
+         "name": "🐾丨鲨鱼【🔞】",
+         "type": 3,
+         "api": "./lib/caiji.js",
+         "ext": "https://shayuapi.com/api.php/provide/vod/"
+    }
+    ]
+    }}
