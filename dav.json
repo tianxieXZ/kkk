@@ -1,0 +1,16 @@
+{
+  "drives": [
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "本机",
+      "server": "http://192.168.0.106:5244/dav",
+      "user": "admin",
+      "pass": "198505"
+    }
+  ]
+}
